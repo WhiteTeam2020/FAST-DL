@@ -1,0 +1,14 @@
+"UnlitGeneric" 
+{
+	"$basetexture" "overlays/slender/jid/overlay_kevin_scare.vtf"
+
+            	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}

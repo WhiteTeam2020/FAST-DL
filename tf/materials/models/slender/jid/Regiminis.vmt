@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/slender/jid/Regiminis"
+	"$additive" 1
+}

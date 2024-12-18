@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/jid/overlay_kevin_teleport.vtf"
+	"$translucent" 1
+
+            	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	} 
+}
