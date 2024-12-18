@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fnatigmod/acephalous/texture004"
+	"$model" 1
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "0.3"	
+	"$phongfresnelranges"	"[.1 1 8]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "4"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "2"	
+}

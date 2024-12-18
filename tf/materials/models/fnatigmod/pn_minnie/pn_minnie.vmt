@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fnatigmod/pn_minnie/pn_minnie"
+	"$bumpmap" "models/fnatigmod/pn_minnie/pn_minnie_normal"
+	"$nocull" 1
+	"$phong" "0"
+	"$halflambert" "0"
+	"$phongfresnelranges" "[.4 .8 30]"
+	"$ambientocclusion" "1"
+
+
+
+	"$diffuseexp" "1.5" 
+
+}
+

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/fnatigmod/pn_mickey/pn_mickey"
+	"$bumpmap" "models/fnatigmod/pn_mickey/pn_mickey_normal"
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongexponent" "15"
+	"$phongtint" "[1 1 1]"
+	"$halflambert" "0"
+	"$phongfresnelranges" "[.4 .8 30]"
+	"$ambientocclusion" "1"
+
+
+
+	"$diffuseexp" "1.5" 
+
+}
