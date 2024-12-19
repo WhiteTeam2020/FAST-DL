@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "nextbots/suicide"
+	"$alphatest" 1
+	"$nocull" 1
+}

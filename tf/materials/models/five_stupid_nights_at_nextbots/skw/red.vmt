@@ -1,0 +1,21 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models/five_stupid_nights_at_nextbots/skw/red"
+     	"$bumpmap" "models/five_stupid_nights_at_nextbots/bumptexture"
+
+$surfaceprop metal
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+	"$phongalbedotint" "1"
+
+
+
+$halflambert 0
+$diffuseexp 1.5
+
+
+}
+

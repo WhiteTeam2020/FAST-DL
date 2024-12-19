@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "models/five_stupid_nights_at_nextbots/colores"
+	"$translucent" 1
+	"$selfillum" 1
+	"$selfillummaskscale"	5
+}
